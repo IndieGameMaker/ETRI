@@ -12,3 +12,4 @@
 
 [강의 리소스](https://drive.google.com/open?id=1HJHKxupcMSqcr4UgZ2gx22OuMA0u1uxW)
 
+[강이 리소스-몬스터](https://github.com/IndieGameMaker/ETRI/blob/master/Monster.zip)
