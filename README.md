@@ -15,6 +15,9 @@
 [강의 리소스-몬스터](https://github.com/IndieGameMaker/ETRI/blob/master/Monster.zip)
 
 [강의 리소스-강남스타일](https://github.com/IndieGameMaker/ETRI/blob/master/monster%40Gangnam%20Style.fbx)
+
+[ShadowGun VR](https://drive.google.com/open?id=0B3oEiOFhHHVTaXdUUW9RSWVqQnM)
+
 ## 일자별 강의 소스
 
 [1일차 - SpaceShooter](https://drive.google.com/open?id=1WkNu1GFZFUuWWIin5-4brVBfkiNQe6JN)
