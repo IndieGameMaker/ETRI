@@ -20,6 +20,18 @@
 
 [UI Texture](https://drive.google.com/open?id=0B3oEiOFhHHVTVmUyQ1E0OWdjU28)
 
+#### [VR Lobby 리소스](https://drive.google.com/open?id=1avlQVFYVQfXlUURnAlNjIhg6Sx3MdtiO)
+
+#### [일반 비디오](https://drive.google.com/open?id=1peucd_9-mxorgx0QwhCXnIcK7dcK00i3)
+
+#### [360 비디오 (StarWars)](https://drive.google.com/open?id=1LvPTF2JhQ_GxtKQWu9MgTx1iY5XzkZvR)
+
+#### [360 비디오 (크래쉬로얄)](https://drive.google.com/open?id=1rkr7x7LogRFXOEAuttQAxhVruzH7oC3H)
+
+#### [Music mp3](https://github.com/IndieGameMaker/IITP/blob/master/09-In-The-Fall-Of-My-Heart.mp3)
+
+#### [Inverse Sphere Model](https://drive.google.com/open?id=0B3oEiOFhHHVTTk9kbkdhVTlfOGs)
+
 ## 일자별 강의 소스
 
 [1일차 - SpaceShooter](https://drive.google.com/open?id=1WkNu1GFZFUuWWIin5-4brVBfkiNQe6JN)
