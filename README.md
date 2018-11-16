@@ -32,6 +32,11 @@
 
 #### [Inverse Sphere Model](https://drive.google.com/open?id=0B3oEiOFhHHVTTk9kbkdhVTlfOGs)
 
+
+![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_earth.png)
+
+![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_sun.png)
+
 ## 일자별 강의 소스
 
 [1일차 - SpaceShooter](https://drive.google.com/open?id=1WkNu1GFZFUuWWIin5-4brVBfkiNQe6JN)
