@@ -37,17 +37,4 @@
 
 ![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_sun.png)
 
-## 일자별 강의 소스
-
-[SpaceShooter 최종소스](https://drive.google.com/open?id=1V0TeJbm7z2oIMv21Kx85aWeCAO2cKcKp)
-
-[ShadowGun 최종소스](https://drive.google.com/open?id=1MCDb-TNnbe-EsWr11bxDE_lvto6-TetJ)
-
-[기어VR 최종소스](https://drive.google.com/open?id=1rxtkOsEd9NEwBN7-y2vuOJlJGrcHiq0B)
-
-[VR Lobby 최종소스](https://drive.google.com/open?id=10iFqZ-oBY74oZfwINKwch7J4VDgiqQ3y)
-
-[Vuforia 최종소스](https://drive.google.com/open?id=15x-nixvDI7Qvm0_EeTrPjlaU5vNRdqa_)
-
-[ARCore 최종소스](https://drive.google.com/open?id=1DrDLrml0QAMEoYQVgd8TE_aKhHl_0Ptp)
 
