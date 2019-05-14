@@ -38,4 +38,4 @@
 
 # 일자별 강의소스
 
-![1일차 강의소스](https://1drv.ms/u/s!Asker0nVo1TSvoNe7_EoJbDy9flrLQ)
+[1일차 강의소스](https://1drv.ms/u/s!Asker0nVo1TSvoNe7_EoJbDy9flrLQ)
