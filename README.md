@@ -35,3 +35,7 @@
 ![](https://github.com/IndieGameMaker/SWU01/blob/master/AR리소스/마커/ar_marker_sun.png)
 
 
+
+# 일자별 강의소스
+
+![1일차 강의소스](https://1drv.ms/u/s!Asker0nVo1TSvoNe7_EoJbDy9flrLQ)
