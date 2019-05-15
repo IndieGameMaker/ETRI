@@ -47,3 +47,5 @@
 [2일차 강의소스 ShadowGunVR](https://1drv.ms/u/s!Asker0nVo1TSv4F0K0E-NKfyLztPmw)
 
 [3일차 강의소스 - ShadowGunVR 최종](https://1drv.ms/u/s!Asker0nVo1TSv5xzWrOV385I45LkDw)
+
+[3일차 강의소스 - GearVR](https://1drv.ms/u/s!Asker0nVo1TSv6seNTFeuSASh3Yj_A) : 4일차 오전 수업시 사용합니다.
